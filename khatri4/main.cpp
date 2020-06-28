@@ -1,6 +1,6 @@
 // File:      <main.cpp>
 // Name:      <Tejendra Khatri>
-// Class:     CSIS 252
+// Class:     CSIS 252 
 // Program:   assignment #4
 // Date:      <2/13/2018>
  
